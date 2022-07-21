@@ -1,4 +1,4 @@
-ceo : ade herman fachrulroji
+ceo : Ade herman fachrulroji
 staff manager : atep sulaeman 
 staff : sony tulungan
 staff : dede ikbal
